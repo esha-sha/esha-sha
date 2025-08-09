@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/50698af4-0583-4d4a-92dc-69a87877187c" />
+
 
 <!--
 **esha-sha/esha-sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
