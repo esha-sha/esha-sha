@@ -12,10 +12,6 @@ I’m the one who’ll spend an extra hour making a button hover state feel like
 - 🎨 Making interfaces come alive with **micro-interactions & motion**  
 - 💡 Exploring **AI + Design** workflows  
 - 🛠️ Building fun, sometimes chaotic, always *interesting* projects  
-- 🧩 Solving problems on **LeetCode**
-- 🌱 Learning React, UI/UX, and creative front-end magic
-- 💡 I believe even small projects can carry big personality if you build them with intention.
-
 
 
 ## Tech & Tools
@@ -46,7 +42,7 @@ I’m the one who’ll spend an extra hour making a button hover state feel like
 
 
 
-✨ “Good design is invisible. Great design is unforgettable.”
+*Good design is invisible. Great design is unforgettable.*
 
 
 <!--
