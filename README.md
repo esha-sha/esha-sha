@@ -2,7 +2,7 @@
 
 🌸 **Creative Technologist | Frontend Developer | Design-Led Explorer**  
 
-I’m the one who’ll spend an extra hour making a button hover state feel like butter. 🧈 (Worth it? Always.)
+I’ll spend an extra hour making a button hover state feel like butter. 🧈 (Worth it? Always.)
 
 — I care about micro-interactions, accessibility, and how a product feels in the hands of a user, not just whether it functions.
 
